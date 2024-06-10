@@ -13,7 +13,7 @@ While this repository is public, the purpose is solely for the demonstration of 
 ## Academic Integrity
 
 - **No Copying**: Please do not copy any of the code or content from this repository. Academic integrity is crucial, and copying material for your coursework can result in severe penalties, including failing grades and disciplinary actions.
-- **Reference Only**: You may browse the repository for learning purposes, but do not use this code directly in your projects or submit any part of it as your own work.
+- **Reference Only**: **Do not** use this code in your projects, **as reference or otherwise**, or submit any part of it as your own work.
 - **Respect Copyright**: All content in this repository is my intellectual property unless stated otherwise, and must be treated as such.
 
 ## Contact
